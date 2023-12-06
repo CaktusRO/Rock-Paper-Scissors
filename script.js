@@ -131,7 +131,7 @@ foarfeca.addEventListener("click", function() {
         round1.innerHTML = "Ai câștigat! Foarfeca bate hârtia!"
         rundeJucate++
     } else if (computerSelection === 2) {
-        round1.innerHTML = "Ai pierdut! Remiză! Foarfeca este egală cu foarfeca!"
+        round1.innerHTML = "Remiză! Foarfeca este egală cu foarfeca!"
         rundeJucate++
     } 
 } else if (rundeJucate === 1) {
@@ -142,7 +142,7 @@ foarfeca.addEventListener("click", function() {
         round2.innerHTML = "Ai câștigat! Foarfeca bate hârtia!"
         rundeJucate++
     } else if (computerSelection === 2) {
-        round2.innerHTML = "Ai pierdut! Remiză! Foarfeca este egală cu foarfeca!"
+        round2.innerHTML = "Remiză! Foarfeca este egală cu foarfeca!"
         rundeJucate++
     } 
 } else if (rundeJucate === 2) {
@@ -153,7 +153,7 @@ foarfeca.addEventListener("click", function() {
         round3.innerHTML = "Ai câștigat! Foarfeca bate hârtia!"
         rundeJucate++
     } else if (computerSelection === 2) {
-        round3.innerHTML = "Ai pierdut! Remiză! Foarfeca este egală cu foarfeca!"
+        round3.innerHTML = "Remiză! Foarfeca este egală cu foarfeca!"
         rundeJucate++
     } 
 
